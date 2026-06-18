@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repository has been archived and is no longer maintained.  
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.  
+> It should not be used in production systems.  
+
 # ChildhoodCancerDataInitiative-CCDI_to_CDS_ConverteRy (ARCHIVED)
 This script will take a [CCDI submission template](https://github.com/CBIIT/ccdi-model/tree/main/metadata-manifest) and transform it to a flattened [CDS submission template](https://github.com/CBIIT/cds-model/tree/main/metadata-manifest).
 
